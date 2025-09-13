@@ -67,4 +67,3 @@ Sistem informasi klinik untuk manajemen data lansia berbasis web menggunakan Lar
 
 ---
 
-**Dibuat dengan ❤️ untuk pelayanan kesehatan lansia yang lebih baik**
